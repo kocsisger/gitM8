@@ -2,4 +2,4 @@ orange
 apple
 grape
 durian
-pear
+pear/strawberry
